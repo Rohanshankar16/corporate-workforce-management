@@ -1,6 +1,6 @@
 # Corporate Workforce Management
 
-A web application designed to manage corporate workforce data through a MySQL database. This project demonstrates the integration of a Node.js backend with a MySQL database to handle employees, departments, projects, and their interdependencies.
+A web application designed to manage corporate workforce data through a MySQL database. This project demonstrates the integration of a Node.js backend with a MySQL database to handle employees, departments, projects, and their interdependencies
 
 ---
 
